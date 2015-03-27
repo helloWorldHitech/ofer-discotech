@@ -1,0 +1,4 @@
+sudo pip install mutagen
+sudo apt-get install mplayer
+
+sound from: fromtexttospeach.com
